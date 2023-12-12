@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afixoftrix
-- 👀 I’m interested in frontend development, user interface & experience, analytics (data visualizations and insights).
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on any frontfacing piece of technology
+- 👀 Create.. that is all there is to do in this life. Create create create
+- 🌱 I'm creating everyday
+- 💞️ I'm looking to create new sht
 - 📫 How to reach me ...
 
 <!---
